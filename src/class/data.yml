@@ -1,0 +1,620 @@
+Adele:
+  group: Flora
+  type: Warrior
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Angelic Buster:
+  group: Nova
+  type: Pirate
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120, 210]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Aran:
+  group: Hero
+  type: Warrior
+  link:
+    type: levelling
+    levels: [0, 70, 120, 210]
+    effect: Improve EXP from combo orbs
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Ark:
+  group: Flora
+  type: Pirate
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120, 210]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Battle Mage:
+  group: Resistance
+  type: Magician
+  link:
+    name: Spirit of Freedom
+    type: bossing
+    levels: [0, 70, 120]
+    effect: Invincibility when reviving
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Beast Tamer:
+  group: Unique
+  type: Magician
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120, 210]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Blaster:
+  group: Resistance
+  type: Warrior
+  link:
+    name: Spirit of Freedom
+    type: bossing
+    levels: [0, 70, 120]
+    effect: Invincibility when reviving
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Blaze Wizard:
+  group: Cygnis
+  type: Magician
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Buccanner:
+  group: Explorer
+  type: Pirate
+  link:
+    name: Pirate Blessing
+    type: other
+    levels: [0, 70, 120]
+    effect: >-
+      +HP +MP +Stats, and a toggle to change flat and % STR or DEX to the
+      opposite (+STR and +%STR to +DEX and +%DEX or vice versa)
+  legion:
+    type: stat
+    effect: STR
+    value: [10, 20, 40, 80, 100]
+
+Cadena:
+  group: Nova
+  type: Thief
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Cannoneer:
+  group: Explorer
+  type: Pirate
+  link:
+    name: Pirate Blessing
+    type: other
+    levels: [0, 70, 120]
+    effect: |
+      +HP +MP +Stats.
+      a toggle to change flat and % STR or DEX to the opposite (+STR and +%STR to +DEX and +%DEX or vice versa)
+  legion:
+    type: stat
+    effect: STR
+    value: [10, 20, 40, 80, 100]
+
+Corsair:
+  group: Explorer
+  type: Pirate
+  link:
+    name: Pirate Blessing
+    type: other
+    levels: [0, 70, 120]
+    effect: |
+      +HP +MP +Stats.
+      a toggle to change flat and % STR or DEX to the opposite (+STR and +%STR to +DEX and +%DEX or vice versa)
+  legion:
+    type: unique
+    effect: Summon Duration
+    value: [4%, 6%, 8%, 10%, 12%]
+
+Dawn Warrior:
+  group: Cygnis
+  type: Warrior
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Demon Avenger:
+  group: Resistance
+  type: Warrior
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120, 210]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Demon Slayer:
+  group: Resistance
+  type: Warrior
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120, 210]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Dual Blade:
+  group: Explorer
+  type: Thief
+  link:
+    name: Thief's Cunning
+    type: other
+    levels: [0, 70, 120]
+    effect: Increased damage after applying a debuff skill
+  legion:
+    type: stat
+    effect: LUK
+    value: [10, 20, 40, 80, 100]
+
+Evan:
+  group: Hero
+  type: Magician
+  link:
+    type: levelling
+    levels: [0, 70, 120, 210]
+    effect: Increases the duration of rune effects
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Hayato:
+  group: Sengoku
+  type: Warrior
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Hoyoung:
+  group: Anima
+  type: Thief
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Illium:
+  group: Flora
+  type: Magician
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Jett:
+  group: Explorer
+  type: Pirate
+  link:
+    type: other
+    levels: [0, 70, 120]
+    effect: Gives a random assortment of stats
+  legion:
+    type: bossing | levelling | unique | stat
+    effect: Critical Damage
+    value: [1%, 2%, 3%, 5%, 6%]
+
+Kain:
+  group: Nova
+  type: Bowman
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Kaiser:
+  group: Nova
+  type: Warrior
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120, 210]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Kanna:
+  group: Sengoku
+  type: Magician
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Kinesis:
+  group: Unique
+  type: Magician
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Lara:
+  group: Anima
+  type: Magician
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Luminous:
+  group: Hero
+  type: Magician
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120, 210]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Mechanic:
+  group: Resistance
+  type: Pirate
+  link:
+    name: Spirit of Freedom
+    type: bossing
+    levels: [0, 70, 120]
+    effect: Invincibility when reviving
+  legion:
+    type: unique
+    effect: Buff Duration
+    value: [5%, 10%, 15%, 20%, 25%]
+
+Mercedes:
+  group: Hero
+  type: Bowman
+  link:
+    type: levelling
+    levels: [0, 70, 120, 210]
+    effect: Flat +EXP%
+  legion:
+    type: unique
+    effect: Skill cooldown reduction
+    value: [2%, 3%, 4%, 5%, 6%]
+
+Phantom:
+  group: Hero
+  type: Thief
+  link:
+    type: Other
+    levels: [0, 70, 120, 210]
+    effect: Large critical rate
+  legion:
+    type: unique
+    effect: Mesos
+    value: [1%, 2%, 3%, 4%, 5%]
+
+Mihile:
+  group: Cygnis
+  type: Warrior
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Night Lord:
+  group: Explorer
+  type: Thief
+  link:
+    name: Thief's Cunning
+    type: other
+    levels: [0, 70, 120]
+    effect: Increased damage after applying a debuff skill
+  legion:
+    type: stat
+    effect: Critical Rate
+    value: [1%, 2%, 3%, 4%, 5%]
+
+Night Walker:
+  group: Cygnis
+  type: Thief
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Shade:
+  group: Hero
+  type: Pirate
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Shadower:
+  group: Explorer
+  type: Thief
+  link:
+    name: Thief's Cunning
+    type: other
+    levels: [0, 70, 120]
+    effect: Increased damage after applying a debuff skill
+  legion:
+    type: stat
+    effect: LUK
+    value: [10, 20, 40, 80, 100]
+
+Thunder Breaker:
+  group: Cygnis
+  type: Pirate
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Wild Hunter:
+  group: Resistance
+  type: Bowman
+  link:
+    name: Spirit of Freedom
+    type: bossing
+    levels: [0, 70, 120]
+    effect: Invincibility when reviving
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Wind Archer:
+  group: Cygnis
+  type: Bowman
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Xenon:
+  group: Resistance
+  type: Xenon
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Zero:
+  group: Unique
+  type: Warrior
+  link:
+    type: bossing | levelling | other
+    levels: [0, 70, 120]
+    effect:
+  legion:
+    type: levelling
+    effect:
+    value: []
+
+# region Explorer
+
+Hero:
+  group: Explorer
+  type: Warrior
+  link:
+    name: Invincible Belief
+    type: bossing
+    levels: [0, 70, 120]
+    effect: Restore HP over time when low
+  legion:
+    type: stat
+    effect: STR
+    value: [10, 20, 40, 80, 100]
+
+Paladin:
+  group: Explorer
+  type: Warrior
+  link:
+    name: Invincible Belief
+    type: bossing
+    levels: [0, 70, 120]
+    effect: Restore HP over time when low
+  legion:
+    type: stat
+    effect: STR
+    value: [10, 20, 40, 80, 100]
+
+Dark Night:
+  group: Explorer
+  type: Warrior
+  link:
+    name: Invincible Belief
+    type: bossing
+    levels: [0, 70, 120]
+    effect: Restore HP over time when low
+  legion:
+    type: stat
+    effect: HP
+    value: [2%, 3%, 4%, 5%, 6%]
+
+# region Explorer Mage
+
+Mage (Fire/Poison):
+  group: Explorer
+  type: Magician
+  link:
+    name: Empirical Knowledge
+    type: bossing
+    levels: [0, 70, 120]
+    effect: Stackable damage and Ignore Enemy Defence (IED) on single targets
+  legion:
+    type: stat
+    value: [2%, 3%, 4%, 5%, 6%]
+    effect: Max MP
+
+Mage (Ice/Lightning):
+  group: Explorer
+  type: Magician
+  link:
+    name: Empirical Knowledge
+    type: bossing
+    levels: [0, 70, 120]
+    effect: Stackable damage and Ignore Enemy Defence (IED) on single targets
+  legion:
+    type: stat
+    effect: INT
+    value: [10, 20, 40, 80, 100]
+
+Bishop:
+  group: Explorer
+  type: Magician
+  link:
+    name: Empirical Knowledge
+    type: bossing
+    levels: [0, 70, 120]
+    effect: Stackable damage and Ignore Enemy Defence (IED) on single targets
+  legion:
+    type: stat
+    effect: INT
+    value: [10, 20, 40, 80, 100]
+
+#endregion
+
+# region Explorer Bowman
+Bowmaster:
+  group: Explorer
+  type: Bowman
+  link:
+    name: Adventurer's Curiosity
+    type: other
+    levels: [0, 70, 120]
+    effect: Chance to add to Monster Collection and Critical Rate bonus (10% fully stacked)
+  legion:
+    type: stat
+    effect: DEX
+    value: [10, 20, 40, 80, 100]
+
+Marksman:
+  group: Explorer
+  type: Bowman
+  link:
+    name: Adventurer's Curiosity
+    type: other
+    levels: [0, 70, 120]
+    effect: Chance to add to Monster Collection and Critical Rate bonus (10% fully stacked)
+  legion:
+    type: bossing | levelling | unique | stat
+    effect:
+    value: []
+
+Pathfinder:
+  group: Explorer
+  type: Bowman
+  link:
+    name: Adventurer's Curiosity
+    type: other
+    levels: [0, 70, 120]
+    effect: Chance to add to Monster Collection and Critical Rate bonus (10% fully stacked)
+  legion:
+    type: stat
+    effect: DEX
+    value: [10, 20, 40, 80, 100]
+# endregion
